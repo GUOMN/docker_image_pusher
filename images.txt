@@ -6,3 +6,6 @@ xhofe/alist:latest
 hslr/sun-panel:latest
 
 corentinth/it-tools:latest
+
+mongo
+jayfong/yapi
